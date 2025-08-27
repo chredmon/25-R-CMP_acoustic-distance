@@ -1,0 +1,11 @@
+[project]
+name = "25-r-cmp-acoustic-distance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.4.0",
+    "librosa>=0.11.0",
+    "pandas>=2.3.2",
+]
